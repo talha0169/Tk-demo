@@ -1,4 +1,4 @@
 # Tk-demo
 this is my first Git repository
 <br>
-Author-Talha khurshid
+Author-Talha khurshid.
